@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
+## Bienvenido a my Página de GitHub
 
-You can use the [editor on GitHub](https://github.com/erossiano/erossiano.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+{% site.lema %}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+{% site.description %}
