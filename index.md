@@ -5,3 +5,7 @@
 layout: home
 ---
 ## Bienvenido a mi Página de GitHub
+
+Aqui publicaré mi experiencia frente al computador...un poco de todo...
+configuraciones, algunos lenguajes de programación, trucos de oficinas
+entre otros. --La mayoria, solo en texto-- Espero te guste leer.
