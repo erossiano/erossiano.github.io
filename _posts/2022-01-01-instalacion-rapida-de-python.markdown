@@ -59,5 +59,5 @@ Ya que lograste instalar Python, puedes continuar aprendiendo con [Mi primer pro
 
 
 [pagina-oficial]: https://www.python.org/downloads/windows/
-
+[next-post]: https://erossiano.github.io/python/2022/07/01/mi-primer-programa.html
 
