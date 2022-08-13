@@ -5,9 +5,9 @@ date:   2021-07-01 10:22:44 -0500
 categories: Python
 ---
 
-Phyton es un lenguaje de programación de facil aprendizaje.  Este lenguaje es usado para solucionar de manera facil una gran cantidad de problemas.  Debido a su corta curva de aprendizaje, casi, desde el primer dia en que empiezas a aprenderlo.
+Phyton es un lenguaje de programación de facil aprendizaje.  Este lenguaje es usado para solucionar de manera fácil una gran cantidad de problemas.  Debido a su corta curva de aprendizaje, casi, desde el primer día en que empiezas a aprenderlo.
 
-En esta entrada, explicare como instalar la ultima version de Python en Windows.
+En esta entrada, explicaré como instalar la última versión de Python en Windows.
 
 #### Primero ####
 Se debe identificar que versión de windows ternemos `x86` ó `x64`. Para lo cual, debe hacer lo siguiente:
@@ -22,9 +22,9 @@ Descargar el instalador de Python apropiado para tu sistema Windows, desde la su
 Una vez descargado el instalador, hacerle doble clic y seguir las instrucciones.  Usualmente, debes dejar las opciones por defecto y presionar el boton siguiente, siguiente hasta completar la instalación.
 
 #### Cuarto ####
-Al terminar, solo debes verificar que la instalacion culmino correctamente y verificar que los ejecutables de Python fueron agregados como variable de entorno.  Para esto, solo debes abrir un terminal presionando `Tecla Windows + R` en el escritorio de windows.  Y escribir `cmd`.
+Al terminar, solo debes verificar que la instalación culmino correctamente y verificar que los ejecutables de Python fueron agregados como variable de entorno.  Para esto, solo debes abrir un terminal presionando `Tecla Windows + R` en el escritorio de windows.  Y escribir `cmd`.
 
-Se abrira una ventana del terminal de comandos de windows.  Aqui, escribiras el siguiente comando
+Se abrirá una ventana del terminal de comandos de Windows.  Aquí, escribirás el siguiente comando
 `python --version`.  
 
 {% highlight console %}
