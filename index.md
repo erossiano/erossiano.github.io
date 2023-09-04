@@ -14,7 +14,7 @@ Aquí puedes ver algunos de los proyectos que he realizado o en los que he parti
 - [Creación de una herramienta para la generacion de archivos planos de pago para diferentes entidades bancarias]: Un proyecto donde se creó una herramienta usando Excel y VBA para la generacion de archivos bancarios que cumplieran con el estandar del banco que redujera el numero de rechazos a causa de la estructura.
 - [Creación de una herramienta para la generacion de archivos planos para la consulta de y validacion de documento de identidad ante MINSALUD]: Un proyecto donde se creó una herramienta usando Excel y VBA para la generacion de archivos planos de consulta que cumplieran con el estandar de MINSALUD que redujera el numero de rechazos a causa de la estructura y facilitara la gestión de la información.
 - [Creación de un Componente de PeopleSoft para la generacion de certificados en linea de los empleados vinculados]: Un proyecto donde se desarrollo y personalizó un Componente de PeopleSoft HCM para validar, genenerar y verificar los certificados de los empleados vinculados a la organización.
--[Creación de una Interfaz de Componente de PeopleSoft para la consulta de Certificados de Disponibilidad Presupuestal por sistemas externos]: Un proyecto donde se desarrollo y personalizó una Interfaz de Componente de PeopleSoft FSM para consultar mediante SOAP los datos de los Certificados de Disponibilidad Presupuestal.
+- [Creación de una Interfaz de Componente de PeopleSoft para la consulta de Certificados de Disponibilidad Presupuestal por sistemas externos]: Un proyecto donde se desarrollo y personalizó una Interfaz de Componente de PeopleSoft FSM para consultar mediante SOAP los datos de los Certificados de Disponibilidad Presupuestal.
 
 
 ## Mis habilidades
